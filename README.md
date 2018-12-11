@@ -1,6 +1,6 @@
-#DG_Deploy
+# DG_Deploy
 
-##Install
+## Install
 
 ```
 composer config repositories.dg/module-deploy git https://github.com/danielgheoltan/magento2-module-deploy.git
@@ -10,14 +10,14 @@ php bin/magento module:enable DG_Deploy
 php bin/magento cache:flush
 ```
 
-##Remove
+## Remove
 
 ```
 composer remove dg/module-deploy
 php bin/magento cache:flush
 ```
 
-##Update
+## Update
 
 ```
 composer update dg/module-deploy
