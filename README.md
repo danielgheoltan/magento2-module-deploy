@@ -1,5 +1,9 @@
 # DG_Deploy
 
+## Introduction
+
+Sets all themes to physical before deploying static view files.
+
 ## Install
 
 ```
