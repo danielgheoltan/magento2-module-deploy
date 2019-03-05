@@ -1,6 +1,6 @@
 {
-    "name": "dg/module-deploy",
-    "description": "N/A",
+    "name": "danielgheoltan/magento2-module-deploy",
+    "description": "Sets all themes to physical before deploying static view files.",
     "require": {
         "php": "*",
         "magento/framework": ">=100.0.0"
